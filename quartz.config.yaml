@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: unklogged.github.io
+  baseUrl: unklogged.github.io/quartz
   ignorePatterns:
     - private
     - templates
